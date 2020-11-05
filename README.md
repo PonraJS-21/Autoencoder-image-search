@@ -4,7 +4,7 @@
 * Python >= 3.6
 * Keras 2.4
 * Tensorflow >= 2 (Use tensoflow-gpu version for faster training)
-* Datset: https://www.kaggle.com/ponrajsubramaniian/vacational-places-image-dataset (You can use your own image data)
+* Dataset: https://www.kaggle.com/ponrajsubramaniian/vacational-places-image-dataset (You can use your own image data)
 
 
 ##### For more detail refer the below URL:
