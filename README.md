@@ -16,4 +16,6 @@ https://www.pyimagesearch.com/2020/02/17/autoencoders-with-keras-tensorflow-and-
 2. index_images.py
 3. search.py
 
+##### Result
+
 ![alt text](output/result.png)
